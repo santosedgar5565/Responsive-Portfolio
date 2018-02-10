@@ -80,7 +80,9 @@ h1 {
 #main-navigation a {
 	text-decoration: none;
 	color: #777777;
+	font-family: 'Georgia', Times, Times New Roman, serif;
 }
+
 
 #main-section {
 	clear: both;
@@ -209,5 +211,11 @@ button {
 .left-column a:nth-child(odd) .portfolio-item {
 	margin-right: 64px;
 }
+
+.portfolio-link-1 .portfolio-item {
+	background-image: url("");
+}
+
+
 
 
